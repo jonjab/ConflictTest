@@ -6,3 +6,4 @@ We're going to move on to Venus to see what's up.
 Venus has a toxic atmosphere
 Its also cloudy which is good for Wolfman
 Jon's adding a different line about mars on his local repo.
+Unfortunately too humid for Mummy
